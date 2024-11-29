@@ -8,3 +8,11 @@ background-color:cornsilk;
 padding: 0px;
 margin: 0px;
 }
+
+.navbar a{
+color:  #2196F3;
+text-decoration: none;
+padding: 15px;
+display: block;
+text-align: center;
+}
