@@ -1,3 +1,10 @@
 h1 {
 text-align: center;
 }
+
+.navbar ul{
+list-style-type: none;
+background-color:cornsilk;
+padding: 0px;
+margin: 0px;
+}
