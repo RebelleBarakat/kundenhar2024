@@ -3,12 +3,34 @@ body {
 margin: 0px;
 border-style:solid;
 border-color: #2196F3;
+
+display: grid;
+grid-template-columns: 1fr 1fr;
+grid-template-areas: 
+"head head"
+"nav nav"
+"side main"
+"side foot";
+}
+
+nav{
+grid-area: nav;
+}
+
+aside {
+grid-area: side;
 }
 
 main {
     margin-left: 20px;
     margin-right: 20px;
+    grid-area: main;
 }
+
+footer {
+    grid-area: foot;
+}
+
 
 h1 {
 text-align: center;
@@ -20,6 +42,8 @@ background-color:cornsilk;
 padding: 0px;
 margin: 0px;
 overflow: hidden;
+border-style:solid;
+border-color: #2196F3;
 }
 
 .navbar a{
