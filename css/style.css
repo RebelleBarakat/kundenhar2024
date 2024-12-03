@@ -25,6 +25,11 @@ grid-area: nav;
 
 aside {
 grid-area: side;
+background-color: cornsilk;
+border-radius: 25px;
+height: 22em;
+border-color: #2196F3;
+border-style: solid;
 }
 
 main {
@@ -50,6 +55,7 @@ margin: 1em;
 overflow: hidden;
 border-style:solid;
 border-color: #2196F3;
+border-radius: 25px;
 }
 
 .navbar a{
