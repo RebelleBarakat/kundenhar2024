@@ -42,6 +42,9 @@ footer {
     grid-area: foot;
 }
 
+h3{
+    text-align: center;
+}
 
 h1 {
 text-align: center;
