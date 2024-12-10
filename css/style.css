@@ -1,6 +1,7 @@
 *{
     margin: 0px;
     padding: 0px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 body {
@@ -30,9 +31,9 @@ border-radius: 25px;
 height: 22em;
 border-color: #2196F3;
 border-style: solid;
-font-size: small;
+font-size: 13px;
 word-spacing: 5px;
-font-display: 1e
+text-indent: 20px;
 }
 
 main {
