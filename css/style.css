@@ -1,7 +1,7 @@
 *{
     margin: 0px;
     padding: 0px;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 body {
@@ -35,6 +35,7 @@ font-size: 13px;
 word-spacing: 5px;
 text-indent: 20px;
 line-height: 17px;
+padding: 20px;
 }
 
 main {
@@ -80,4 +81,10 @@ background-color:rgb(237, 225, 176) ;
 
 .navbar li{
 float:left
+}
+
+img{
+height: 5cm;
+border-color: #2196F3;
+border-style: solid;
 }
