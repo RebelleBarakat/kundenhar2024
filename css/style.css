@@ -87,4 +87,12 @@ img{
 height: 5cm;
 border-color: #2196F3;
 border-style: solid;
+border-radius: 25px;
+}
+
+p4 {
+font-size: 14px;
+
+text-indent: 20px;
+line-height: 17px;
 }
