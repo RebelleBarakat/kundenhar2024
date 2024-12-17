@@ -41,7 +41,7 @@ nav{
 grid-area: nav;
 }
 
-aside {
+.indexside {
 grid-area: side;
 background-color: cornsilk;
 border-radius: 25px;
@@ -55,7 +55,7 @@ line-height: 17px;
 padding: 20px;
 }
 
-main {
+.indexmain {
     margin-left: 20px;
     margin-right: 20px;
     grid-area: main;
@@ -109,4 +109,9 @@ border-radius: 25px;
 
 p4 {
 font-size: 14px;
+}
+
+.blogside {
+grid-area: side;
+
 }
