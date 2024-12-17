@@ -4,7 +4,7 @@
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
-body {
+.indexwrapper {
 min-height: 100vh;
 margin: 0px;
 border-style:solid;
@@ -16,6 +16,23 @@ grid-template-rows: auto auto 1fr auto;
 grid-template-areas: 
 "head head"
 "nav nav"
+"side main"
+"side foot";
+}
+
+.blogwrapper {
+    min-height: 100vh;
+margin: 0px;
+border-style:solid;
+border-color: #2196F3;
+
+display: grid;
+grid-template-columns: 500px 1fr;
+grid-template-rows: auto auto 1fr auto;
+grid-template-areas: 
+"head head"
+"nav nav"
+"side main"
 "side main"
 "side foot";
 }
