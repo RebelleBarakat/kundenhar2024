@@ -149,3 +149,13 @@ background-size: cover;
 background-image: url(../img/beirut.jpg);
 background-size: cover;
 }
+
+#s3 {
+background-image: url(../img/newyork.jpg);
+background-size: cover;
+}
+
+#s4 {
+background-image: url(../img/paris.jpg);
+background-size: cover;
+}
