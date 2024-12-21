@@ -145,6 +145,11 @@ justify-content: center;
 align-items: center;
 }
 
+.ptips {
+    font-size: 2em;
+    text-shadow: 0 0 3px white;
+}
+
 #s1 {
 background-image: url(../img/abudhabi.webp);
 background-size: cover;
