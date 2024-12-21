@@ -155,7 +155,8 @@ align-items: center;
 }
 
 section:hover .ptips {
-display: none;
+font-size: small;
+font-size-adjust: 20px;
 }
 
 .ptips {
@@ -181,4 +182,9 @@ background-size: cover;
 #s4 {
 background-image: url(../img/paris.jpg);
 background-size: cover;
+}
+
+.pfoottip {
+position: flow;
+
 }
