@@ -124,3 +124,10 @@ grid-area: main;
 .tipsheader {
     text-align: center;
 }
+
+
+.tipwrapper {
+    display: flex;
+    flex-wrap: wrap;
+    
+}
