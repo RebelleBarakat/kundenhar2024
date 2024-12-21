@@ -140,6 +140,9 @@ border-style: solid;
 width: 200px;
 height:200px;
 border-radius: 20px 10px 10px 20px;
+display: flex;
+justify-content: center;
+align-items: center;
 }
 
 #s1 {
