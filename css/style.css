@@ -155,8 +155,7 @@ align-items: center;
 }
 
 section:hover .ptips {
-font-size: small;
-font-size-adjust: 20px;
+font-size: 40px;
 }
 
 .ptips {
@@ -185,6 +184,9 @@ background-size: cover;
 }
 
 .pfoottip {
-position: flow;
-
-}
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+ }
