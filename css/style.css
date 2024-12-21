@@ -18,6 +18,8 @@ grid-template-areas:
 "nav nav"
 "side main"
 "side foot";
+background-image: url(../img/sky.avif);
+background-size: cover;
 }
 
 .blogwrapper {
@@ -35,6 +37,13 @@ grid-template-areas:
 "side main"
 "side main"
 "side foot";
+background-image: url(../img/sky.avif);
+background-size: cover;
+}
+
+.tipsbody {
+    background-image: url(../img/sky.avif);
+    background-size: cover;
 }
 
 nav{
@@ -143,6 +152,10 @@ border-radius: 20px 10px 10px 20px;
 display: flex;
 justify-content: center;
 align-items: center;
+}
+
+section:hover .ptips {
+display: none;
 }
 
 .ptips {
