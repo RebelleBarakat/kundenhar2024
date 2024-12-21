@@ -190,3 +190,8 @@ background-size: cover;
     width: 100%;
     text-align: center;
  }
+
+ .blogimg {
+    width: 40em;
+    height: 25em;
+ }
