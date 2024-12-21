@@ -120,3 +120,7 @@ grid-area: side;
 grid-area: main;
 
 }
+
+.tipsheader {
+    text-align: center;
+}
